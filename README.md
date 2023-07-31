@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi I'm Hossein Ekrmian 👋
+Linkedin Badge  Website Badge Twitter Badge Gmail Badge
+
+Welcome to my profile! I'm a Front End Engineer, aspiring software developer, full time coder and life time learner and adventurer. I am currently working at IES in Glasgow, United Kingdom and have previously worked at Maybank in Malaysia, and some other banking companies before that.
