@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-@beneki_dev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/beneki_dev)](https://twitter.com/beneki_dev)
 [![Gmail Badge](https://img.shields.io/badge/-ekramian.hossein-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ekramian.hossein@gmail.com)](mailto:ekramian.hossein@gmail.com)
 
-Welcome to my profile! I'm a Front End Engineer, aspiring software developer, full time coder and life time learner and adventurer. I am currently working at IES in Glasgow, United Kingdom and have previously worked at Maybank in Malaysia, and some other banking companies before that.
+Welcome to my profile! I'm a Front End Engineer, aspiring software developer, full time coder and life time learner and adventurer. I am currently working at IES in United Kingdom and have previously worked at Maybank in Malaysia, and some other banking companies before that.
