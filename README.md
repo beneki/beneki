@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi I'm Hossein Ekrmian 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Hossein%20Ekramian-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahyar-hossein-ekramian-05180ba9/)](https://www.linkedin.com/in/mahyar-hossein-ekramian-05180ba9/)
+[![Linkedin Badge](https://img.shields.io/badge/-Hossein%20Ekramian-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hossein-ekramian/)](https://www.linkedin.com/in/hossein-ekramian/)
 [![Medium Badge](https://img.shields.io/badge/-@beneki-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@beneki)](https://medium.com/@beneki)
 [![Website Badge](https://img.shields.io/badge/-ekramian.uk-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ekramian.uk)](https://ekramian.uk)
 [![Twitter Badge](https://img.shields.io/badge/-@beneki_dev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/beneki_dev)](https://twitter.com/beneki_dev)
