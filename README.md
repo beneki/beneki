@@ -10,7 +10,7 @@ Languages: JavaScript, TypeScript, Python, C#
 Frameworks & Libraries: React, Redux, Angular, Node.js, Express, .NET, GraphQL, FastAPI, Flask
 Databases: PostgreSQL, MongoDB
 Tools & Platforms: Docker, AWS, GitHub Actions
-Others: API development, CI/CD pipelines, Agile methodologies
+Others: API development, Agile methodologies
 
 ### 🌟 Highlights
 Efficient Development: Created a UI generator system that reduced time and costs while being widely adopted.
