@@ -14,8 +14,7 @@ Others: API development, CI/CD pipelines, Agile methodologies
 
 ### 🌟 Highlights
 Efficient Development: Created a UI generator system that reduced time and costs while being widely adopted.
-Innovative Solutions: Integrated AI into a social media platform, developing it from landing pages to a complete blueprint.
-Leadership: Experience in mentoring development teams, enhancing collaborative efforts and project outcomes.
+Experience in mentoring development teams, enhancing collaborative efforts and project outcomes.
 
 
 ### 📫 Contact Me
