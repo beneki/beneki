@@ -1,25 +1,26 @@
+# Hi there 👋
+Welcome to My GitHub Profile!
+I'm Hossein Ekrmian a passionate Full Stack Developer with expertise in Node.js, TypeScript, React, and more. I enjoy building innovative solutions and contributing to exciting projects. Below, you’ll find an overview of my skills, experience, and contributions.
 
-<!--
-**beneki/beneki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Overview
+Key Projects: I’ve worked on a variety of projects, including developing a UI generator system that streamlined interface creation and integrated AI into a philanthropy social media platform. These experiences demonstrate my ability to deliver efficient, scalable solutions and lead projects from concept to execution.
 
-Here are some ideas to get you started:
+🛠️ Skills
+Languages: JavaScript, TypeScript, Python, C#
+Frameworks & Libraries: React, Redux, Angular, Node.js, Express, .NET, GraphQL, FastAPI, Flask
+Databases: PostgreSQL, MongoDB
+Tools & Platforms: Docker, AWS, GitHub Actions
+Others: API development, CI/CD pipelines, Agile methodologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Highlights
+Efficient Development: Created a UI generator system that reduced time and costs while being widely adopted.
+Innovative Solutions: Integrated AI into a social media platform, developing it from landing pages to a complete blueprint.
+Leadership: Experience in leading and mentoring development teams, enhancing collaborative efforts and project outcomes.
+📈 Stats
 
-# Hi I'm Hossein Ekrmian 👋
-
+📫 Contact Me
+Email: [![Gmail Badge](https://img.shields.io/badge/-ekramian.hossein-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ekramian.hossein@gmail.com)](mailto:ekramian.hossein@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Hossein%20Ekramian-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hossein-ekramian/)](https://www.linkedin.com/in/hossein-ekramian/)
-[![Medium Badge](https://img.shields.io/badge/-@beneki-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@beneki)](https://medium.com/@beneki)
-[![Website Badge](https://img.shields.io/badge/-ekramian.uk-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ekramian.uk)](https://ekramian.uk)
-[![Twitter Badge](https://img.shields.io/badge/-@beneki_dev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/beneki_dev)](https://twitter.com/beneki_dev)
-[![Gmail Badge](https://img.shields.io/badge/-ekramian.hossein-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ekramian.hossein@gmail.com)](mailto:ekramian.hossein@gmail.com)
-
-Welcome to my profile! I'm a Full Stack developer, full time coder and life time learner and adventurer. I am currently working at IES in United Kingdom and have previously worked at Maybank in Malaysia, and some other banking companies before that.
+Twitter: [![Twitter Badge](https://img.shields.io/badge/-@beneki_dev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/beneki_dev)](https://twitter.com/beneki_dev)
+Personal Website: [![Website Badge](https://img.shields.io/badge/-ekramian.uk-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ekramian.uk)](https://ekramian.uk)
+Feel free to explore my repositories and reach out if you have any questions or are interested in collaboration!
