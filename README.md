@@ -22,8 +22,6 @@ Experience in mentoring development teams, enhancing collaborative efforts and p
 [![Gmail Badge](https://img.shields.io/badge/-ekramian.hossein-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ekramian.hossein@gmail.com)](mailto:ekramian.hossein@gmail.com)
 ##### LinkedIn: 
 [![Linkedin Badge](https://img.shields.io/badge/-Hossein%20Ekramian-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hossein-ekramian/)](https://www.linkedin.com/in/hossein-ekramian/)
-##### Twitter: 
-[![Twitter Badge](https://img.shields.io/badge/-@beneki_dev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/beneki_dev)](https://twitter.com/beneki_dev)
 ##### Personal Website: 
 [![Website Badge](https://img.shields.io/badge/-ekramian.uk-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ekramian.uk)](https://ekramian.uk)
 
